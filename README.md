@@ -1,5 +1,6 @@
 # 💫 About Me:
 Malik Badruzzaman - Music Producer | Audio Engineer | Sound Designer | Musician | Guitarist
+Here's my [![Linktree](https://img.shields.io/badge/Linktree-%2398FB98.svg?logo=Linktree&logoColor=white)](https://lintr.ee/MalikkB)
 
 🔭 Currently working as a Freelance Music Producer and Audio Engineer at Fiverr.<br>👯‍♀️ Looking to collaborate on experimental sound design projects and professional audio post-production.<br>🤝 Looking for help with expanding my network in the creative industry and finding new sound inspirations.<br>🌱 Currently learning new techniques to push the limits of what’s possible in the world of sound.<br>💬 Ask about my.. mixing workflows, my go-to audio plugins, or why I’ve stuck with FL Studio for 6+ years.<br>⚡ Silly not-so-fun fact! I’ve probably spent more time looking at waveforms than actual people.
 
