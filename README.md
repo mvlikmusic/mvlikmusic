@@ -6,7 +6,7 @@ Malik "MVLIK" Badruzzaman - Music Producer | Audio Engineer | Sound Designer | M
 #### 🕶 Interests:
 🎧 Making music, of course.<br>🎸 Playing my guitaaaar (love of my life fr)<br>🔍 Exploring new things.<br>🛌 Schleeps.
 
-#### Motto: "If you wanna make the world a  better place, take a look at yourself and make a change, woo" -Michael Jackson
+#### Motto:<br>"If you wanna make the world a  better place, take a look at yourself and make a change, hee hee" -Michael Jackson
 # 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/malikbadruzzaman) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mvlikmusic) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mvlikmusic) [![SoundCloud](https://img.shields.io/badge/SoundCloud-%23FF9A00.svg?logo=SoundCloud&logoColor=white)](https://soundcloud.com/mvlikmusic)
 
